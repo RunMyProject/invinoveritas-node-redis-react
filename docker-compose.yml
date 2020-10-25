@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  redis-server:
+    image: 'redis'
+  node-server:
+    build: ./invinoveritas-node
+    volumes:
+      - ./invinoveritas-node:/app/invinoveritas-node
+    ports:
+      - "4001:8081"
+#  react-server:
+#    build: ./invinoveritas-react
+#    command: ["npm", "start"]
+#    volumes:
+#      - ./invinoveritas-react:/app/invinoveritas-react
+#      - node-modules:/app/invinoveritas-react/node_modules
+#    ports:
+#      - "8080:3000"
+#volumes:
+ # node-modules:
