@@ -1,3 +1,7 @@
+// Author: Edoardo Sabatini
+// @26/10/2020
+// ************************ 
+//
 import React, { useState, useLayoutEffect } from 'react';
 import Wine from '../../components/wine'
 import Cookies from 'js-cookie';

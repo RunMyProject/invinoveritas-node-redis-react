@@ -1,3 +1,7 @@
+// Author: Edoardo Sabatini
+// @26/10/2020
+// ************************ 
+//
 $(document).ready(function(){
 
 	"use strict";

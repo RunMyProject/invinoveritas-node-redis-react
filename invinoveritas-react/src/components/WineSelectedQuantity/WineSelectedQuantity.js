@@ -1,3 +1,7 @@
+// Author: Edoardo Sabatini
+// @26/10/2020
+// ************************ 
+//
 import React from 'react';
 import { withRouter } from 'react-router';
 import Cookies from 'js-cookie';

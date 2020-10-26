@@ -1,3 +1,7 @@
+// Author: Edoardo Sabatini
+// @26/10/2020
+// ************************ 
+//
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

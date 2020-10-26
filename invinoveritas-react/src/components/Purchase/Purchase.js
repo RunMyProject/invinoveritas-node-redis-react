@@ -1,3 +1,7 @@
+// Author: Edoardo Sabatini
+// @26/10/2020
+// ************************ 
+//
 import React from 'react';
 import classLevelStyles from './purchase.css';
 import Cookies from 'js-cookie';

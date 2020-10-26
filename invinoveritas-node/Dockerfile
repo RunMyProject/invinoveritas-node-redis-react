@@ -1,3 +1,7 @@
+# Author: Edoardo Sabatini
+# @26/10/2020
+# ######################## 
+#
 #Specify a base image
 FROM node:alpine
 
